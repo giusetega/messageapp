@@ -1,0 +1,26 @@
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+form{
+    margin: 20px 0px;
+}
+
+form input{
+    margin: 0px 5px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+ul.messages li{
+    margin: 7px;
+}
+
+footer{
+    margin: 40px 0px;
+    text-align: center;
+}
