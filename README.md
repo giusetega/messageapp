@@ -1,4 +1,5 @@
 # messageapp
-App that allows you to insert and delete messages from different users using MySQLi.
+App that allows different users to insert and delete messages. 
+This simple app uses MySQLi.
 
 ![screenshot](messageapp_screenshot.PNG)
